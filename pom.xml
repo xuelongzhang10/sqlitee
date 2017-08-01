@@ -40,10 +40,6 @@
 			<artifactId>sqlite-jdbc</artifactId>
 			<version>3.8.7</version>
 		</dependency>
-		<!--<dependency>
-			<groupId>com.sqlitee.config</groupId>
-			<artifactId>sqlite-dialect</artifactId>
-		</dependency>-->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
